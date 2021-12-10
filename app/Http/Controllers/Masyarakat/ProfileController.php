@@ -77,7 +77,7 @@ class ProfileController extends Controller
 
         $user = User::find($id);
         // return $user->profile_photo_path;
-        if ($request->file('profile_photo_path') || $user->profile_photo_path != null) {
+        if ($request->file('profile_photo_path')  != null) {
             $img = $request->file('profile_photo_path')->store('photo', 'public');
         }
         $user->name = $request->name;

@@ -29,9 +29,7 @@
                 <hr>
                 <p class="p-2">
 
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab nulla iusto maiores esse quis temporibus hic illo delectus nostrum molestias, fugiat non impedit doloremque laboriosam in minus, illum iste deleniti!
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente animi itaque laboriosam cupiditate saepe dicta eveniet delectus quasi quod ad esse repellat, molestias praesentium cumque labore a recusandae corporis ullam?
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur natus ex facilis expedita qui consectetur minus unde voluptates consequuntur fugit assumenda aliquid soluta quae eligendi, quisquam accusantium! Qui, deleniti obcaecati.
+                  Pemberdayaan dilakukan dalam upaya peningkatan kualitas kesejahteraan masyarakat yang meliputi kesejahteraan keluarga, memandirikan masyarakat miskin, mengangkat harkat dan martabat masyarakat lapisan bawah, menjadikan masyarakat sebagai subjek dalam bertindak. Pemberdayaan dapat dilakukan oleh masyarakat maupun pemerintah setempat. Untuk mencapai tujuan tersebut, perlu diciptakan suatu program pemberdayaan di pedesaan sehingga mampu mensejahterakan keluarga dan masyarakat.
                 </p>
       </div>
 
